@@ -17,4 +17,7 @@ Axes de recherche
 ======
 
 \[en cours\]
-[//]: <> Mes travaux portent sur la dimension numérique des mouvements sociaux, sur la circulation d’images en ligne lors de controverses, ainsi que sur les logiques de plateformisation de la société.
+
+<!---
+Mes travaux portent sur la dimension numérique des mouvements sociaux, sur la circulation d’images en ligne lors de controverses, ainsi que sur les logiques de plateformisation de la société.
+-->
