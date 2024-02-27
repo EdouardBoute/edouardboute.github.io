@@ -22,11 +22,13 @@ author_profile: true
 * Bouté E. « Le mouvement des Gilets jaunes à l’épreuve des plateformes », *23ème Congrès de la SFSIC* (table ronde). Bordeaux. 14-15-16 juin 2023.
 * Bouté E., Julliard V., « Enjeux de tri et d’exploration de vastes corpus d’images fixes et vidéos collectées sur Twitter », *Journée d’études : Travailler avec les images*. Maison de la Recherche de Sorbonne Université, Paris. 8 juin 2023.
 * Bouté E., Mabi C. « Game of Pol : la participation politique sur Twitch à l’épreuve des logiques de plateformisation du web », *Journée d’études : La politique sur Twitch*. Site Pouchet du CNRS, Paris. 14 avril 2023.
-Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes entre janvier et novembre 2018 ? », *séminaire COMUN*. Université Toulouse 1 Capitole. 10 mars 2023
+* Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes entre janvier et novembre 2018 ? », *séminaire COMUN*. Université Toulouse 1 Capitole. 10 mars 2023
 
 ## 2022
+* Bouté E. Participation au panel « Plateformes et mobilisations collectives », *Journées annuelles du CIS*. Site Pouchet du CNRS, Paris. 5 décembre 2022.
+* Bouté E., Alié F. Participation au panel « Méthodes numériques et interdisciplinarité », *Journées annuelles du CIS*. Site Pouchet du CNRS, Paris. 5 décembre 2022.
 * Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes entre janvier et novembre 2018 ? », *Journées d’études : Les Gilets jaunes trois ans après – Un état des lieux*. ENS Ulm, Paris. 2-3 juin 2022.
-
+* Bouté E., Mabi C. « La participation politique en ligne face à la plateformisation du web », *séminaire POIETIC*. Université Côte d’Azur, Nice. 7 avril 2022.
 
 
 
@@ -36,9 +38,7 @@ Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Fac
 * Bouté E., Mabi C. « L’influence des technologies numériques dans l’injonction à la transparence parlementaire », *Journée d’études interdisciplinaires : Médias, discours et transparence*. IUT de Tours. 4 avril 2019.
 
 
-Bouté E. (2022). Participation au panel « Plateformes et mobilisations collectives », Journées annuelles du CIS. Site Pouchet du CNRS, Paris. 5 décembre 2022.
-Bouté E., Alié F. (2022). Participation au panel « Méthodes numériques et interdisciplinarité », Journées annuelles du CIS. Site Pouchet du CNRS, Paris. 5 décembre 2022.
-Bouté E., Mabi C. (2022). « La participation politique en ligne face à la plateformisation du web », séminaire POIETIC. Université Côte d’Azur, Nice. 7 avril 2022.
+
 Bouté E. (2020). « Circulation des signes et du sens sur Twitter dans le cadre des mobilisations contre les violences policières », séminaire Questions de méthodes et numériques pour les thèses en SHS. CELSA/GRIPIC, Paris. 12 octobre 2020.
 Bouté E. (2019). « Les violences policières face à internet », séminaire de l’équipe EPIN/Costech. UTC, Paris. 12 décembre 2019.
 Bouté E. (2019). « Mobiliser les images sur les réseaux sociaux pour faire reconnaître l’existence des violences policières », journée doctorale du Costech. UTC, Compiègne. 24 mai 2019.
