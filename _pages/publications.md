@@ -36,7 +36,7 @@ author_profile: true
 
 ## 2020
 * Bouté E. « Débats 5G. Quels apports de la recherche ? », Rapport pour le Centre Internet et Société du CNRS. <a target="_blank" href="https://cis.cnrs.fr/debats-5g-quels-apports-de-la-recherche/"> ➡ </a> <br>
-* Bouté E., Mabi C. « Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes », *Études de Communication*, n°54, pp. 29-52. <a target="_blank" href="https://doi.org/10.4000/edc.9996"> ➡ </a> <br> 
+* Bouté E., Mabi C. « Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes », *Études de Communication*, n°54, pp. 29-52. <a target="_blank" href="https://doi.org/10.4000/edc.9996"> ➡ </a> <br>
 
 ## 2019
 * Bouté E. « Surveillance », *Lexique transnum (programme Sorbonne U)*. <a target="_blank" href="https://transnum.pre.utc.fr/lexique/"> ➡ </a> <br>
