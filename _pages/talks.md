@@ -42,4 +42,4 @@ Bouté E. « Mobiliser les images sur les réseaux sociaux pour faire reconnaît
 * Bouté E., Mabi C. « L’influence des technologies numériques dans l’injonction à la transparence parlementaire », *Journée d’études interdisciplinaires : Médias, discours et transparence*. IUT de Tours. 4 avril 2019.
 
 ## 2018
-Bouté E. « L’engagement citoyen en contre-démocratie : civic tech et dispositifs de surveillance des élu·es », *Séminaire de l’équipe CRED/Costech*. UTC, Compiègne. 26 février 2018.
+* Bouté E. « L’engagement citoyen en contre-démocratie : civic tech et dispositifs de surveillance des élu·es », *Séminaire de l’équipe CRED/Costech*. UTC, Compiègne. 26 février 2018.
