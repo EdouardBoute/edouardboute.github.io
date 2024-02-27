@@ -38,4 +38,4 @@ author_profile: true
 * Bouté E., Mabi C. « Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes », *Études de Communication*, n°54, pp. 29-52. <a target="_blank" href=""> ➡ </a> <br> <https://doi.org/10.4000/edc.9996>
 
 ## 2019
-* Bouté E., Mabi C. « Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay », *actes du colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019.
+* Bouté E., Mabi C. « Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay », *Actes du colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019.
