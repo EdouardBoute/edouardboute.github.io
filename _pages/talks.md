@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Communications"
 permalink: /talks/
 author_profile: true
 ---
@@ -30,16 +30,16 @@ author_profile: true
 * Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes entre janvier et novembre 2018 ? », *Journées d’études : Les Gilets jaunes trois ans après – Un état des lieux*. ENS Ulm, Paris. 2-3 juin 2022.
 * Bouté E., Mabi C. « La participation politique en ligne face à la plateformisation du web », *séminaire POIETIC*. Université Côte d’Azur, Nice. 7 avril 2022.
 
+## 2021
 
-
+## 2020
+* Bouté E. « Circulation des signes et du sens sur Twitter dans le cadre des mobilisations contre les violences policières », *Séminaire Questions de méthodes et numériques pour les thèses en SHS*. CELSA/GRIPIC, Paris. 12 octobre 2020.
 
 ## 2019
+* Bouté E. « Les violences policières face à internet », *Séminaire de l’équipe EPIN/Costech*. UTC, Paris. 12 décembre 2019.
 * Bouté E. « Pratiques de dénonciation de la répression policière des Gilets Jaunes sur les réseaux sociaux numériques », *Demi-journée d’études : Les Gilets Jaunes en politique*. Sciences Po, Paris. 28 novembre 2019.
+Bouté E. « Mobiliser les images sur les réseaux sociaux pour faire reconnaître l’existence des violences policières », *Journée doctorale du Costech*. UTC, Compiègne. 24 mai 2019.
 * Bouté E., Mabi C. « L’influence des technologies numériques dans l’injonction à la transparence parlementaire », *Journée d’études interdisciplinaires : Médias, discours et transparence*. IUT de Tours. 4 avril 2019.
 
-
-
-Bouté E. (2020). « Circulation des signes et du sens sur Twitter dans le cadre des mobilisations contre les violences policières », séminaire Questions de méthodes et numériques pour les thèses en SHS. CELSA/GRIPIC, Paris. 12 octobre 2020.
-Bouté E. (2019). « Les violences policières face à internet », séminaire de l’équipe EPIN/Costech. UTC, Paris. 12 décembre 2019.
-Bouté E. (2019). « Mobiliser les images sur les réseaux sociaux pour faire reconnaître l’existence des violences policières », journée doctorale du Costech. UTC, Compiègne. 24 mai 2019.
-Bouté E. (2018). « L’engagement citoyen en contre-démocratie : civic tech et dispositifs de surveillance des élu·es », séminaire de l’équipe CRED/Costech. UTC, Compiègne. 26 février 2018.
+## 2018
+Bouté E. « L’engagement citoyen en contre-démocratie : civic tech et dispositifs de surveillance des élu·es », *Séminaire de l’équipe CRED/Costech*. UTC, Compiègne. 26 février 2018.
