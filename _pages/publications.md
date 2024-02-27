@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}-->
 
 ## 2024
-Bouté E. (2024). « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? », in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), Les Gilets jaunes : une révolte inclassable, Éditions Rue d’Ulm : Paris, pp. 209-219.
+* Bouté E. (2024). « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? », in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), Les Gilets jaunes : une révolte inclassable, Éditions Rue d’Ulm : Paris, pp. 209-219. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> ➡ </a> <br>
 
 ## 2023
 Bouté E. (2023). « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », XXIIIème Congrès de la Sfsic : la numérisation des sociétés. Bordeaux. 14-15-16 juin 2023.
