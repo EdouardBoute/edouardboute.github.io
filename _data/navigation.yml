@@ -8,7 +8,10 @@ main:
 
   - title: "Enseignements"
     url: /teaching/    
-    
+
+  - title: "Médias"
+    url: /medias/    
+     
   # - title: "CV"
   #  url: /cv/
   
