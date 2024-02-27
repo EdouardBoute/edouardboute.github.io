@@ -38,7 +38,7 @@ author_profile: true
 ## 2019
 * Bouté E. « Les violences policières face à internet », *Séminaire de l’équipe EPIN/Costech*. UTC, Paris. 12 décembre 2019.
 * Bouté E. « Pratiques de dénonciation de la répression policière des Gilets Jaunes sur les réseaux sociaux numériques », *Demi-journée d’études : Les Gilets Jaunes en politique*. Sciences Po, Paris. 28 novembre 2019.
-Bouté E. « Mobiliser les images sur les réseaux sociaux pour faire reconnaître l’existence des violences policières », *Journée doctorale du Costech*. UTC, Compiègne. 24 mai 2019.
+* Bouté E. « Mobiliser les images sur les réseaux sociaux pour faire reconnaître l’existence des violences policières », *Journée doctorale du Costech*. UTC, Compiègne. 24 mai 2019.
 * Bouté E., Mabi C. « L’influence des technologies numériques dans l’injonction à la transparence parlementaire », *Journée d’études interdisciplinaires : Médias, discours et transparence*. IUT de Tours. 4 avril 2019.
 
 ## 2018
