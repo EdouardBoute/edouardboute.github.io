@@ -35,7 +35,7 @@ author_profile: true
 * Bouté E., Mabi C. « Le code fait-il vraiment la loi ? Analyse de la participation politique sur la plateforme Github », *Recherches en Communication*, Vol. 52. <a target="_blank" href="https://doi.org/10.14428/rec.v52i52.61793"> ➡ </a> <br>
 
 ## 2020
-* Bouté E. « Débats 5G. Quels apports de la recherche ? », Rapport pour le Centre Internet et Société du CNRS, 30 pages. <a target="_blank" href="https://cis.cnrs.fr/debats-5g-quels-apports-de-la-recherche/"> ➡ </a> <br>
+* Bouté E. « Débats 5G. Quels apports de la recherche ? », Rapport pour le Centre Internet et Société du CNRS. <a target="_blank" href="https://cis.cnrs.fr/debats-5g-quels-apports-de-la-recherche/"> ➡ </a> <br>
 * Bouté E., Mabi C. « Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes », *Études de Communication*, n°54, pp. 29-52. <a target="_blank" href="https://doi.org/10.4000/edc.9996"> ➡ </a> <br> 
 
 ## 2019
