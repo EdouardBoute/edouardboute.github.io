@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne, ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (UTC/Costech) et s'intitule *Police Pixel : le maintien de l’ordre à l’épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes*.
+Docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne, ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (UTC/Costech) et s'intitule *Police Pixel : le maintien de l’ordre à l’épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes*. Elle est librement accessible sur [HAL](https://shs.hal.science/tel-03961191).
 
 Depuis septembre 2022, je suis postdoctorant au [CERES](https://ceres.sorbonne-universite.fr), le Centre d’expérimentation en méthodes numériques pour les recherches en SHS de la Faculté des Lettres de Sorbonne Université. Je suis également co-responsable du groupe de travail *Participation et citoyenneté numériques* du [Centre Internet et Société](https://cis.cnrs.fr) du CNRS. 
 
