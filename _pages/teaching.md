@@ -32,17 +32,11 @@ Ce cours fait partie de la formation à la rhétorique de l'Alliance Sorbonne Un
 
 Ce cours à destination d'étudiant·es ingénieur·es de tout niveau (spécificité de l'Université de technologie de Compiègne) vise à fournir des outils intellectuels permettant de mieux comprendre le contexte incertain dans lequel ils et elles seront amené·es à mobiliser leurs compétences techniques en tant que professionel·les. Les impacts sociopolitiques des innovations technologiques étant considérables, les ingénieur·es se trouvent confronté·es à des situations de controverses où des décisions doivent être prises sans certitude absolue, nécessitant une compréhension approfondie des enjeux sociotechniques. La transition écologique est particulièrement mise en avant comme un défi majeur, exigeant une réévaluation profonde de notre rapport au progrès et à l'innovation, avec l'émergence de nouveaux concepts comme l'arbitrage, la redirection ou encore la bifurcation.
 
-Dans le cadre de cet enseignement donné par Clément Mabi, j'ai été amené à intervenir dans deux CM (transformation numérique de l'espace public ; expertise scientifique et défiance citoyenne) et à donner des TD orientés dans deux directions. La première était le suivi de projets étudiants (construction d'un cours en pédagogie inversée ; projets en lien avec des professionnels), la seconde était l'organisation de "disputes", à savoir des débats argumentés préparés entre étudiant·es pour mettre en scène une controverse sociotechnique. 20h par semestres, pendant 4 semestres.
+Dans le cadre de cet enseignement donné par Clément Mabi, j'ai été amené à intervenir dans deux CM (transformation numérique de l'espace public ; expertise scientifique et défiance citoyenne) et à donner des TD orientés dans deux directions. La première était le suivi de projets étudiants (construction d'un cours en pédagogie inversée ; projets en lien avec des professionnels), la seconde était l'organisation de "disputes", à savoir des débats argumentés préparés entre étudiant·es pour mettre en scène une controverse sociotechnique. 20h par semestre, pendant 4 semestres.
 
 ### Humanités numériques et controverses
 
-
-
-
-35h, 3 semestres.
-
-
-
+Ce séminaire intensif d'une semaine a pour but de donner aux étudiant·es l'occasion de travailler en groupe sur l'analyse d'une controverse sociotechnique en lien avec une thématique donnée. Les étudiant·es doivent produire à l'issue de ce séminaire une cartographie de la controverse, après avoir explorer les mondes sociaux numériques, appréhender les débats, les polémiques, les troubles dans la société, les acteurs et les arènes, tout en relevant les arguments des parties prenantes en mettant l’accent sur la dimension narrative des controverses. En lien avec Virginie Julliard la première année, puis avec Clément Mabi les deux années suivantes, nous avons abordé avec les étudiant·es les controverses en lien avec les thématiques de la légifération sur le vivant, du *low tech* et des arbitrages écologiques. 35h par semestre, pendant 3 semestres.
 
 ## IAE Poitiers (2021-2022)
 TD	Analyse de réseaux : visualisation et cartographie	M2	2021-2022	20h
