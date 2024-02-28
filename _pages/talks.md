@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}-->
 
 ## 2023
-* Alié, F., Bouté, E., Julliard, V. « Appréhender de grands corpus de vidéo : captures d’écran, tri et exploration avec Pellipop et Panoptic », *Journée d’études : Travailler avec les images en mouvement*, Maison de la Recherche de Sorbonne Université, Paris. 21 décembre 2023.
+* Alié, F., Bouté, E., Julliard, V. « Appréhender de grands corpus de vidéos : captures d’écran, tri et exploration avec Pellipop et Panoptic », *Journée d’études : Travailler avec les images en mouvement*, Maison de la Recherche de Sorbonne Université, Paris. 21 décembre 2023.
 * Alié, F., Bouté, E., Écrement V. « Génèse, création et fonctionnement de l’outil de visualisation Panoptic », *Séminaire MetSem*, Sciences Po Paris. 23 Novembre 2023.
 * Bouté E., Lupovici, R. « Les images de la contestation connectée des Gilets jaunes au croisement des terrains et des méthodes », *Colloque Plateformes et usages*, Université de Montréal. 2-3-4 Novembre 2023.
 * Bouté E. « Le mouvement des Gilets jaunes à l’épreuve des plateformes », *23ème Congrès de la SFSIC* (table ronde). Bordeaux. 14-15-16 juin 2023.
