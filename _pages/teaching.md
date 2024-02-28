@@ -24,4 +24,25 @@ Ce cours destiné aux M2 du master Recherche du CELSA cherche à familiariser le
 
 ### Art oratoire : écrire un discours et argumenter  – Alliance Sorbonne Université (2020-aujourd'hui)
 
-12h par an.
+Ce cours fait partie de la formation à la rhétorique de l'Alliance Sorbonne Université, qui est adossée au concours annuel "Fleurs d'éloquence". Cet enseignement vise à apprendre aux étudiant·es comment se construit un discours, quelle est la spécificité du texte écrit destiné à être oralisé, ainsi que ce qu'est l'argumentation, dans une perspective à la fois théorique (cours magistral) et pratique (écriture de discours, analyse de discours politiques). 12h par an.
+
+# Enseignements passés
+## Université de technologie de Compiègne (2018-2021)
+### Science et débat public
+35h, 3 semestres.
+
+### Humanités numériques et controverses
+16h, 4 semestres.
+
+## IAE Poitiers (2021-2022)
+TD	Analyse de réseaux : visualisation et cartographie	M2	2021-2022	20h
+TP	Transformation numérique 	M2	2021-2022	6h
+CM	Management des connaissances et des systèmes d’information 	M1	2021-2022	21h
+CM	Audit et conseil en communication	M1	2021-2022	21h
+TP	Compétition Agences	M1	2021-2022	10h
+CM	Statistiques pour la décision	L3	2021-2022	20h
+CM	Communication culturelle et revue de presse internationale 	L3	2021-2022	15h
+
+
+
+
