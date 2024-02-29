@@ -5,16 +5,6 @@ permalink: /medias/
 author_profile: true
 ---
 
-<!--{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}-->
-
 Révolutions Numériques, entretien pour le podcast  des étudiant·es du master Métiers de l’information de  Sciences Po Aix, par Julia Dall’Ara et Salomé Nefti « Au cœur des arènes numériques : la polarisation sur les réseaux sociaux », 22 janvier 2024. <https://podcast.ausha.co/revolutions-numeriques/01-au-coeur-des-arenes-numeriques-la-polarisation-sur-les-reseaux-sociaux-s4-revolutions-numeriques>
 Stratégies, entretien pour l’article de Amaury de Rochegonde « La téléréalité des révoltes urbaines », 6 juillet 2023.
  <https://www.strategies.fr/actualites/medias/LQ2122132C/la-telerealite-des-revoltes-urbaines.html>
