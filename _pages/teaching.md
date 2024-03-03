@@ -30,8 +30,10 @@ Ce cours fait partie de la formation à la rhétorique de l'Alliance Sorbonne Un
 
 ## IAE Poitiers (2021-2022)
 
+<!--
+
 ### Analyse de réseaux : visualisation et cartographie	
-<!-- M2	2021-2022	20h Avec Marianning Le Béhel
+M2	2021-2022	20h Avec Marianning Le Béhel
 
 ### Transformation numérique 	
 TP M2	2021-2022	6h Avec Bruno
@@ -40,14 +42,23 @@ TP M2	2021-2022	6h Avec Bruno
 
 ### CM	Audit et conseil en communication	M1	2021-2022	21h
 
-### CM	Statistiques pour la décision	L3	2021-2022	20h
-### CM	Communication culturelle et revue de presse internationale 	L3	2021-2022	15h
-
 -->
+
+
 
 ### Compétition Agences
 
 Ce cours de M1 propose aux étudiant·es, réuni·es en différents groupes, de travailler pendant un an avec un commanditaire (entreprise, association) ayant des besoins en communication. Après la réalisation d'un diagnostic de l'existant (communication interne et externe du commanditaire), d'un benchmark de la communication opérée par des structures similaires à celles du commanditaire, ainsi que d'une enquête auprès d'un public cible identifié, les groupes d'étudiant·es sont chargés d'élaborer une proposition de stratégie complète de communication répondant aux besoins du commanditaire (se rendre identifiable, organiser des événements, développer une stratégie de communication sur des réseaux sociaux numériques identifiés, créer un site web, organiser des espaces d'échanges numériques...). Dans le cadre de ce cours, en lien avec Marion Coville, j'ai suivi trois groupes d'étudiant·es travaillant pour Afrogameuses (association dont l'objectif est d'oeuvrer pour améliorer la mixité et la diversité dans les différents milieux du jeu vidéo) et pour le Collectif d'Universitaires Autistes (collectif d’enseignant·es-chercheur·euses qui se mobilise pour faire valoir les droits des personnes autistes sur leur lieu de travail, mène des actions de médiation et promeut un réseau d'entraides).
+
+### Communication culturelle et revue de presse internationale 
+
+Ce cours de L3 vise à apprendre aux étudiant·es à réaliser une revue de presse. À l'issue de ce cours, ils et elles doivent être capables de réaliser un panorama synthétique de l’actualité, de comprendre le fonctionnement de la production de l’information, de développer leur esprit critique et des capacités d’analyse du discours journalistique, ainsi que des capacités de synthèse et de hiérarchisation de l’information. Les revues de presse réalisées par les étudiant·es sont spécifiquement centrées sur l'actualité internationale. Il est attendu de ces revues de presse de proposer un panorama de l'actualité, une analyse comparée du cadrage médiatique d'un même événement par différents titres de presse, ainsi qu'une analyse sémiotique d'une image de presse.
+
+Dans la partie magistrale de cet enseignement, les sujets suivants ont été abordés : la consommation de l'information en ligne (évolution des acteurs traditionnels, nouveaux acteurs et médias (pure player, automédias, infomédiaires), le décodage et le recodage de l'information partagée et consultée via les réseaux sociaux numériques) ; les cadrages médiatiques (Robert M. Entman) ; la sémiotique sociale pour l'analyse d'images de presse avec les notions de filtres interprétatifs et de communautés interprétatives (Alexandra Saemmer) ; la question des régimes de représentation en *cultural studies* (Stuart Hall) ; et l'essor du *fact-checking* comme pratique journalistique contemporaine. 15h.
+
+### Statistiques pour la décision	
+
+Ce cours de L3 porte un double enjeu théorique (comprendre ce que sont les statistiques, leur histoire ou encore leur usage en société, que ce soit dans l'action publique, les sciences sociales ou les entreprises) et professionnalisant (savoir notamment maîtriser les principaux concepts statistiques et développer un usage expérimenté des tableurs informatiques (Excel ou Libre Office Calc), mais aussi savoir trouver des données brutes à analyser). 20h.
 
 ## Université de technologie de Compiègne (2018-2021)
 ### Science et débat public
