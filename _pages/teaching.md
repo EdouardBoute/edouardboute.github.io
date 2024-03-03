@@ -30,21 +30,22 @@ Ce cours fait partie de la formation à la rhétorique de l'Alliance Sorbonne Un
 
 ## IAE Poitiers (2021-2022)
 
-<!--
-
 ### Analyse de réseaux : visualisation et cartographie	
-M2	2021-2022	20h Avec Marianning Le Béhel
+
+Ce cours de M2 prend appui sur les enjeux du travail de cartographie de controverses pour s'intéresser à la question particulière de l'analyse de réseaux. Dans ce cours enseigné par Mariannig Le Béchec, je suis intervenu dans un premier temps pour former les étudiant·es aux outils de *scraping* et de visualisation de données (Octoparse d'un côté, Excel, Gephi et Tableau Public de l'autre). Dans un second temps, j'ai également suivi plusieurs groupes d'étudiant·es dans leurs travaux. Les controverses étudiées concernent la mobilisation contre le projet de mégabassines dans le marais poitevin, la mobilisation du rapport du GIEC par les pouvoir publics, ainsi que les réticences à l’implantation de voieries spécifiquement destinées à la circulation en vélo dans la ville de Poitiers.
 
 ### Transformation numérique 	
-TP M2	2021-2022	6h Avec Bruno
 
-### CM	Management des connaissances et des systèmes d’information 	M1	2021-2022	21h
+Ce cours de M2 est un cours de cartographie de controverses sociotechniques centré sur les controverses liées au numérique (identification d'acteurs, d'arènes, d'arguments). Dans ce cours de Bruno Vétel, je suis intervenu pour suivre différents projets de recherche d'étudiant·es sur les questions de l'aspiration des données personnelles en lien avec le développement des voitures autonomes, des algorithmes de justice prédictive, de la base de données du projet "Alamo" (Campagne présidentielle de D. Trump en 2016), et des débats en ligne autour du *fact checking*. 6h.
 
-### CM	Audit et conseil en communication	M1	2021-2022	21h
+### Management des connaissances et des systèmes d’information 
 
--->
+L'enjeu de ce cours est d'interroger les conditions matérielles et culturelles du partage de la connaissance dans les organisations (en entreprise et en société) à l'aide d'outils dédiés. Ainsi, plusieurs éléments sont abordés dans ce cours : les système de gestion des connaissances, les technologies de gestion électronique de documents, les transformations contemporaines du fonctionnement des entreprises et leur organisation, les enjeux de représentation de la connaissance, les effets de la culture numérique sur la culture entrepreneuriale au travers de principes collaboratifs (organisation agile), les cycles de vie du savoir (identification, création, stockage, partage, utilisation), ou encore la démarche "*knowledge management*" et sa mise en oeuvre. Un cours est également dédié à la question de la gestion et du partage des données institutionnelles publiques, dont la logique est mise en parallèle des démarches citoyennes de production, de valorisation et de diffusion de données publiques/d'intérêt général (*open data* et captologie citoyenne). Un autre cours interroge les logiques de l'organisation d'anonymes pour produire et gérer les connaissances encyclopédiques en ligne (Wikipedia). Plusieurs outils sont présentés dans ce cours pour la gestion des connaissances (organisation, veille, formalisation, valorisation, partage) : Notion, Obsidian, Wikis, Zotero pour les connaissances académiques, OpenStreetMap pour les données cartographiques... En plus de l'approche théorique du management des connaissances et des systèmes d’information, les étudiant·es sont amenés à travailler sur un projet nécessitant de collecter, structurer, gérer, valoriser et partager des données transformées par leurs soins en connaissances. 21h
 
 
+### Audit et conseil en communication	
+
+Ce cours de M1 est une introduction aux méthodes d'audit de communication, apportant notamment aux étudiant·es des éléments stratégiques et de méthodologie pour la production éditoriale, ainsi que des bases en *community management* et *social media management*. Plusieurs concepts sont abordés tels que le *benchmark* de stratégies de communication, la *e-reputation* et l'engagement en ligne, ainsi que les liens entre culture numérique et culture participative. Les étudiant·es sont invité·es à mettre en oeuvre leurs connaissances dans la réalisation d'un projet collectif. 21h.
 
 ### Compétition Agences
 
