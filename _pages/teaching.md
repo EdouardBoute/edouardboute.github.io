@@ -15,7 +15,7 @@ author_profile: true
 ## Sciences Po Paris
 ### Culture et enjeux du numérique (2019-aujourd'hui)
 
-<details markdown='1'><summary>Culture et enjeux du numérique (2019-aujourd'hui)</summary>
+<details markdown='1'><summary><H3>Culture et enjeux du numérique (2019-aujourd'hui)</H3>H3></summary>
 L'enjeu de ce cours de niveau L2 est d'apprendre à décoder les univers numériques. Il s'agit d'interroger avec distance et curiosité les transformations économiques, sociales, culturelles et politiques que les technologies numériques exercent sur nos sociétés. Se familiariser à la culture numérique, ce n'est toutefois pas simplement décoder les enjeux de la société numérique. C'est aussi savoir utiliser, pratiquer et explorer en utilisant des outils numériques. Connaître, faire et enquêter, sont ainsi les trois piliers de ce cours qui associe enseignements théoriques, débats, pratiques du numérique, et initiation à l'enquête en sciences sociales en contexte numérique. 32h par an.
 </details>
 
