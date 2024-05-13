@@ -16,10 +16,11 @@ author_profile: true
 {% endfor %}-->
 
 ## 2024
+* Bouté E. « "Combien n’ont pas été filmé·es" ? » Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles, *Terminal*, n° 138. [A paraître en juin]
 * Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? », in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> ➡ </a> <br>
 
 ## 2023
-* Bouté E. « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés*. Bordeaux. 14-15-16 juin 2023. <a target="_blank" href="https://edouardboute.github.io/files/Boute_SFSIC2023.pdf"> ➡ </a> <br>
+* Bouté E. « Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter », *Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1*, pp. 175-185. 14-15-16 juin 2023. <a target="_blank" href="https://edouardboute.github.io/files/Boute_SFSIC2023.pdf"> ➡ </a> <br>
 * Bouté E., Mabi C. « Plateformisation des sociétés. La plateformisation des sociétés est-elle inévitable ? », in Theviot A. (dir.), *Petit dico critique du big data*, FYP : Limoges, pp. 148-151. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> ➡ </a> <br>
 * Bouté E., Mabi C. « Le "nudge" pour faire de bons citoyens ? », in Theviot A. (dir.), *Petit dico critique du big data*, FYP : Limoges, pp. 151-155. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> ➡ </a> <br>
 * Galligo I., Duhelm L., Bouté E. « Introduction au dossier "Automédias : Pour une fabrique populaire de l’information à l’époque de la post-vérité" », *Cahiers Costech*, n°6. <a target="_blank" href="https://doi.org/10.34746/cahierscostech172"> ➡ </a> <br>
