@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}-->
 
+## 2024
+* Bouté, E. « De la fraternisation avec les "jeunes de banlieue" à l’hostilité à l’égard des "familles de délinquants" : accueillir et rejeter les autres victimes de violences policières en tant que Gilets jaunes », _Journée d’études Communautés politiques, émotions et réactions_. Maison de la Recherche de Sorbonne Université, Paris. 13-14 juin 2024.
+* Andolfi L., Bouté E., Julliard V. « Analyser des documents audiovisuels numériques dans un espace dédié : comparaison d’un corpus de vidéos courtes issues du web et d’un corpus de films », _Colloque international du consortium Huma-Num Canevas : Des corpus audiovisuels en Humanités. Méthodes, expériences, résultats_. MSH Paris Nord. 30-31 mai 2024.
+* Bouté E., Julliard V. « Enjeux de collecte et d’exploration de corpus plurisémiotiques issus de Twitter. Le cas de la diffusion de l’idéologie du "grand remplacement" », _Colloque Analyser les réseaux socionumériques : questionner les méthodes_. Université de Toulouse Jean Jaurès. 28-29 mars 2024.
+* Bouté E. « Panoptic, un outil d’exploration par similarité de vastes corpus d’images », _colloque annuel de l’Association francophone des humanités numériques Humanistica_. FLSH-UMI, Meknès (Maroc). 3 et 7-8-9 mai 2024.
+
 ## 2023
 * Alié, F., Bouté, E., Julliard, V. « Appréhender de grands corpus de vidéos : captures d’écran, tri et exploration avec Pellipop et Panoptic », *Journée d’études : Travailler avec les images en mouvement*, Maison de la Recherche de Sorbonne Université, Paris. 21 décembre 2023.
 * Alié, F., Bouté, E., Écrement V. « Génèse, création et fonctionnement de l’outil de visualisation Panoptic », *Séminaire MetSem*, Sciences Po Paris. 23 Novembre 2023.
