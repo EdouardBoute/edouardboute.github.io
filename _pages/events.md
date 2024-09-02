@@ -7,8 +7,8 @@ author_profile: true
 
 ## Organisation de colloques et journées d'études
 
-* Avec Maël Alonzo et Ulrike Lune Riboni (Université Paris 8/CEMTI), colloque **Discours et images de la violence contestataire**, à Paris 8, 10-11 juin 2024.
-* Avec Léa Andolfi, Thibault Grison et Virginie Julliard (CELSA/GRIPIC), journée d’études **Travailler avec les images en mouvement**, à la Maison de la Recherche de Sorbonne Université, le 21 décembre 2023.
+* Avec Maël Alonzo et Ulrike Lune Riboni (Université Paris 8/CEMTI), colloque [Discours et images de la violence contestataire](https://ceres.sorbonne-universite.fr/0759525422328550060684ae1e598db3/Programme-ImagesDiscoursContestation.pdf), à Paris 8, 10-11 juin 2024.
+* Avec Léa Andolfi, Thibault Grison et Virginie Julliard (CELSA/GRIPIC), journée d’études [Travailler avec les images en mouvement](https://ceres.sorbonne-universite.fr/09271516e0d20e5e919914a42c1f876b/JE_Ceres_Videos_programme.pdf), à la Maison de la Recherche de Sorbonne Université, le 21 décembre 2023.
 * Avec Clément Mabi (UTC/Costech) et Stéphanie Wojcik (UPEC/CEDITEC), panel du groupe de travail Participation et citoyenneté numériques **Débat à bas bruit et pouvoir des plateformes**, Rentrée du CIS, au site Pouchet du CNRS, Paris, 5 octobre 2023.
 * Avec Irène Despontin Lefèvre (ASSAS/CARISM), Clément Mabi (UTC/Costech), Gaël Stephan (ASSAS/CARISM) et Stéphanie Wojcik (UPEC/CEDITEC), journée d’études **Participation et citoyenneté en régime numérique : vers de nouvelles dynamiques de recherche ?**, au site Pouchet du CNRS, le 21 juin 2023.
 * Avec Gaël Lejeune (Sorbonne Université/STIH), journée d’études Recherche d’Information Textuelle : Usages et Expérimentations Linguistiques, à la Maison de la Recherche de Sorbonne Université, le 9 juin 2023.
