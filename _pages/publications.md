@@ -27,19 +27,19 @@ author_profile: true
 * Galligo I., Duhelm L., Bouté E. <a target="_blank" href="https://doi.org/10.34746/cahierscostech172">« Introduction au dossier "Automédias : Pour une fabrique populaire de l’information à l’époque de la post-vérité" »</a>, *Cahiers Costech*, n°6.
 
 ### 2022
-* Bouté E. <a target="_blank" href="https://shs.hal.science/tel-03961191">*Police Pixel : le maintien de l’ordre à l’épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes*</a> <br>. Thèse de doctorat en sciences de l’information et de la communication, Université de Technologie de Compiègne.
+* Bouté E. <a target="_blank" href="https://shs.hal.science/tel-03961191">*Police Pixel : le maintien de l’ordre à l’épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes*</a>. Thèse de doctorat en sciences de l’information et de la communication, Université de Technologie de Compiègne.
 
 ### 2021
-* Bigot J.-E., Bouté E., Collomb C., Mabi C. « Les plateformes à l’épreuve des dynamiques de plateformisation », *Questions de communication*, n°40, vol. 2, pp. 9-22. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.26584"> ➡ </a> <br>
-* Bouté E. « Dénoncer les violences policières sur Facebook : entre volonté de visibilité et construction d’un problème public », *Actes du XXIIème Congrès de la Sfsic : sociétés et espaces en mouvement*. Echirolles (France). 9-10 juin 2021. <a target="_blank" href="https://sfsic2020.sciencesconf.org/357453/document"> ➡ </a> <br>
-* Bouté E. « L’avenir de la politique se joue-t-il sur une plateforme de jeux vidéo ? », *Alternatives non-violentes*, n°199, pp. 14-15. <a target="_blank" href="https://doi.org/10.3917/anv.199.0014"> ➡ </a> <br>
-* Bouté E. « La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes », *Questions de communication*, n°39, vol. 1, pp. 185-208. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.25524"> ➡ </a> <br>
-* Bouté E., Mabi C. « Le code fait-il vraiment la loi ? Analyse de la participation politique sur la plateforme Github », *Recherches en Communication*, Vol. 52. <a target="_blank" href="https://doi.org/10.14428/rec.v52i52.61793"> ➡ </a> <br>
+* Bigot J.-E., Bouté E., Collomb C., Mabi C. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.26584">« Les plateformes à l’épreuve des dynamiques de plateformisation »</a>, *Questions de communication*, n°40, vol. 2, pp. 9-22. 
+* Bouté E. <a target="_blank" href="https://sfsic2020.sciencesconf.org/357453/document">« Dénoncer les violences policières sur Facebook : entre volonté de visibilité et construction d’un problème public »</a>, *Actes du XXIIème Congrès de la Sfsic : sociétés et espaces en mouvement*. Echirolles (France). 9-10 juin 2021.
+* Bouté E. <a target="_blank" href="https://doi.org/10.3917/anv.199.0014">« L’avenir de la politique se joue-t-il sur une plateforme de jeux vidéo ? »</a>, *Alternatives non-violentes*, n°199, pp. 14-15.
+* Bouté E. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.25524">« La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes »</a>, *Questions de communication*, n°39, vol. 1, pp. 185-208.
+* Bouté E., Mabi C. <a target="_blank" href="https://doi.org/10.14428/rec.v52i52.61793">« Le code fait-il vraiment la loi ? Analyse de la participation politique sur la plateforme Github »</a>, *Recherches en Communication*, Vol. 52.
 
 ### 2020
-* Bouté E. « Débats 5G. Quels apports de la recherche ? », Rapport pour le Centre Internet et Société du CNRS. <a target="_blank" href="https://cis.cnrs.fr/debats-5g-quels-apports-de-la-recherche/"> ➡ </a> <br>
-* Bouté E., Mabi C. « Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes », *Études de Communication*, n°54, pp. 29-52. <a target="_blank" href="https://doi.org/10.4000/edc.9996"> ➡ </a> <br>
+* Bouté E. <a target="_blank" href="https://cis.cnrs.fr/debats-5g-quels-apports-de-la-recherche/">« Débats 5G. Quels apports de la recherche ? »</a>, Rapport pour le Centre Internet et Société du CNRS.
+* Bouté E., Mabi C. <a target="_blank" href="https://doi.org/10.4000/edc.9996">« Des images en débat : De la blessure de Geneviève Legay à la répression des Gilets Jaunes »</a>, *Études de Communication*, n°54, pp. 29-52. 
 
 ### 2019
-* Bouté E. « Surveillance », *Lexique transnum (programme Sorbonne U)*. <a target="_blank" href="https://transnum.pre.utc.fr/lexique/"> ➡ </a> <br>
-* Bouté E., Mabi C. « Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay », *Actes du colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019. <a target="_blank" href="https://edouardboute.github.io/files/BouteMabi_GIS2019.pdf"> ➡ </a> <br>
+* Bouté E. <a target="_blank" href="https://transnum.pre.utc.fr/lexique/">« Surveillance »</a>, *Lexique transnum (programme Sorbonne U)*. 
+* Bouté E., Mabi C. <a target="_blank" href="https://edouardboute.github.io/files/BouteMabi_GIS2019.pdf">« Dénoncer les violences policières sur internet. Le cas des débats autour de l’affaire Geneviève Legay »</a>, *Actes du colloque international du GIS Démocratie & Participation : Localiser l’épreuve démocratique*. Maison des Sciences de l’Homme Paris Nord, Saint-Denis. 14-15-16 novembre 2019. 
