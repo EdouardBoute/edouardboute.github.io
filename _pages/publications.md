@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}-->
 
 ### 2024
-* Bouté E. « "Combien n’ont pas été filmé·es" ? » Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles, *Terminal*, n° 138. [A paraître en septembre]
-* Bouté E. « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? », in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> ➡ </a> <br>
+* « "Combien n’ont pas été filmé·es" ? » Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles, *Terminal*, n° 138. [A paraître en septembre]
+* Bouté E. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html"> « Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? » </a>, in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219.
 * Bouté E., Julliard V., Alié F., Gödicke D., pailler f., Écrement V., « PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images », *Actes du colloque Humanistica*. [A paraître en septembre]
 
 ### 2023
