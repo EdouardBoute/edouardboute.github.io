@@ -18,7 +18,7 @@ author_profile: true
 ### 2024
 * « "Combien n’ont pas été filmé·es" ? » Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles, *Terminal*, n° 138. [A paraître en septembre]
 * <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html">« Les réseaux de la tempête qui s’annonce. Quel rôle a joué Facebook dans la structuration du mouvement des Gilets jaunes ? »</a>, in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219.
-* Avec Julliard V., Alié F., Gödicke D., pailler f., Écrement V., « PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images », *Actes du colloque Humanistica*. [A paraître en septembre]
+* Avec Julliard V., Alié F., Gödicke D., pailler f., Écrement V., [« PANOPTIC, un outil d’exploration par similarité de vastes corpus d’images »](https://hal.science/hal-04687627), *Actes du colloque Humanistica*. [A paraître en septembre]
 
 ### 2023
 * <a target="_blank" href="https://edouardboute.github.io/files/Boute_SFSIC2023.pdf">« Militantisme transplateforme : la répression policière des Gilets jaunes entre Facebook et Twitter »</a>, *Actes du XXIIIème Congrès de la Sfsic : la numérisation des sociétés, Volume 1*, pp. 175-185. 14-15-16 juin 2023.
