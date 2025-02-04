@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}-->
 
+## 2025
+* Avec F. Alié et D. Gödicke. « [Explore large datasets of images with Panoptic](https://mirror.as35701.net/video.fosdem.org/2025/aw1126/fosdem-2025-4635-explore-large-image-datasets-with-panoptic.av1.webm) », _Fosdem_. Université Libre de Bruxelles. 1-2 février 2025
+
+
+
 ## 2024
 * « Saisir la circulation des biens informationnels dans un contexte transplateforme. Le cas des images de la répression policière des Gilets jaunes », _Séminaire hybride du GT Enjeux sociaux, Mutations et Pouvoirs de la vidéo du consortium Canevas_. ICP, Paris. 27 septembre 2024.
 * « De la fraternisation avec les "jeunes de banlieue" à l’hostilité à l’égard des "familles de délinquants" : accueillir et rejeter les autres victimes de violences policières en tant que Gilets jaunes », _Journée d’études Communautés politiques, émotions et réactions_. Maison de la Recherche de Sorbonne Université, Paris. 13-14 juin 2024.
