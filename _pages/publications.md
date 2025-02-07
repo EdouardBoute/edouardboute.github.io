@@ -17,7 +17,10 @@ author_profile: true
 
 ### Ouvrages
 
-2025\. (à paraître).
+2025\. [_Images et discours de la violence contestataire : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.babelio.com/livres/Boute-Images-et-discours-de-la-repression/1790842). Paris : MKF (à paraître le 1er mai).
+
+
+
 
 ### Direction de numéros de revue
 
