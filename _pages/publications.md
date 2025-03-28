@@ -17,10 +17,7 @@ author_profile: true
 
 ### Ouvrages
 
-2025\. [_Images et discours de la violence contestataire : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.babelio.com/livres/Boute-Images-et-discours-de-la-repression/1790842). Paris : MKF (à paraître le 1er mai).
-
-
-
+2025\. [_Images et discours de la violence contestataire : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/). Paris : MKF (à paraître le 1er mai).
 
 ### Direction de numéros de revue
 
@@ -28,7 +25,7 @@ author_profile: true
 
 ### Articles de revues scientifiques
 
-2024\. [« "Combien n’ont pas été filmé·es ?" »](https://journals.openedition.org/terminal/9954), *Terminal*, n° 138.  
+2024\. [« "Combien n’ont pas été filmé·es ?" Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles »](https://journals.openedition.org/terminal/9954), *Terminal*, n° 138.  
 2023\. Avec I. Galligo I. et L. Duhelm, <a target="_blank" href="https://doi.org/10.34746/cahierscostech172">« Automédias : Pour une fabrique populaire de l’information à l’époque de la post-vérité »</a>, *Cahiers Costech*, n° 6.  
 2021\. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.25524">« La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes »</a>, *Questions de communication*, n°39, vol. 1, pp. 185-208.  
 2021\. Avec J.-E. Bigot, C. Collomb et C. Mabi , <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.26584">« Les plateformes à l’épreuve des dynamiques de plateformisation »</a>, *Questions de communication*, n°40, vol. 2, pp. 9-22.  
