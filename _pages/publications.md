@@ -34,7 +34,7 @@ author_profile: true
 
 ### Chapitre d'ouvrages
 
-2024\. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html">« Les réseaux de la tempête qui s’annonce. »</a>, in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219.  
+2024\. <a target="_blank" href="https://presses.ens.psl.eu/les-gilets-jaunes.html">« Les réseaux de la tempête qui s’annonce »</a>, in Ravelli Q., Siméant-Germanos J., Bonin L., Liochon P. (dir.), *Les Gilets jaunes : une révolte inclassable*, Éditions Rue d’Ulm : Paris, pp. 209-219.  
 2023\. Avec C. Mabi, <a target="_blank" href="https://boutique.fypeditions.com/products/petit-dico-critique-du-big-data">« La plateformisation des sociétés est-elle inévitable ? »</a>, in Theviot A. (dir.), *Petit dico critique du big data*, FYP : Limoges, pp. 148-151.  
 2023\. Avec C. Mabi, <a target="_blank" href="https://boutique.fypeditions.com/products/petit-dico-critique-du-big-data">« Le "nudge" pour faire de bons citoyens ? »</a>, in Theviot A. (dir.), *Petit dico critique du big data*, FYP : Limoges, pp. 151-155.
 
