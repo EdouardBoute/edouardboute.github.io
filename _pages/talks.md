@@ -30,7 +30,7 @@ author_profile: true
 ## 2023
 * Avec Alié, F., Julliard, V. « Appréhender de grands corpus de vidéos : captures d’écran, tri et exploration avec Pellipop et Panoptic », *Journée d’études : Travailler avec les images en mouvement*, Maison de la Recherche de Sorbonne Université, Paris. 21 décembre 2023.
 * Avec Alié, F., Écrement V. « Génèse, création et fonctionnement de l’outil de visualisation Panoptic », *Séminaire MetSem*, Sciences Po Paris. 23 Novembre 2023.
-* Avec Lupovici, R. « Les images de la contestation connectée des Gilets jaunes au croisement des terrains et des méthodes », *Colloque Plateformes et usages*, Université de Montréal. 2-3-4 Novembre 2023.
+* Avec Lupovici, R. « [Les images de la contestation connectée des Gilets jaunes au croisement des terrains et des méthodes](https://www.youtube.com/watch?v=0UtxKiyZK4Q&list=PLBUcvuwpWoFI2UHi8jClZtWLfH2EZmB0g&index=22) », *Colloque Plateformes et usages*, Université de Montréal. 2-3-4 Novembre 2023.
 * « Le mouvement des Gilets jaunes à l’épreuve des plateformes », *23ème Congrès de la SFSIC* (table ronde). Bordeaux. 14-15-16 juin 2023.
 * Avec Julliard V., « Enjeux de tri et d’exploration de vastes corpus d’images fixes et vidéos collectées sur Twitter », *Journée d’études : Travailler avec les images*. Maison de la Recherche de Sorbonne Université, Paris. 8 juin 2023.
 * Avec Mabi C. « Game of Pol : la participation politique sur Twitch à l’épreuve des logiques de plateformisation du web », *Journée d’études : La politique sur Twitch*. Site Pouchet du CNRS, Paris. 14 avril 2023.
