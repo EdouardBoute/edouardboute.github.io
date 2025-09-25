@@ -17,7 +17,7 @@ author_profile: true
 
 ### Ouvrages
 
-2025\. [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/). Paris : MKF (à paraître le 1er mai).
+2025\. [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/). Paris : MKF.
 
 ### Direction de numéros de revue
 
