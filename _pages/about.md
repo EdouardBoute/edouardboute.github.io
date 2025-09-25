@@ -7,21 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne, ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (UTC/Costech) et s'intitule *Police Pixel : le maintien de l’ordre à l’épreuve des images et des réseaux sociaux numériques pendant le mouvement des Gilets jaunes*. Elle est librement accessible sur [HAL](https://shs.hal.science/tel-03961191).
+Je suis docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne. Ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (INSA Rennes/LFPC). Un livre, [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/), tiré de ce travail de thèse, a été publié aux éditions MKF avec le soutien du CNL.
 
-Depuis septembre 2022, je suis postdoctorant au [CERES](https://ceres.sorbonne-universite.fr), le Centre d’expérimentation en méthodes numériques pour les recherches en SHS de la Faculté des Lettres de Sorbonne Université. Je suis également co-responsable du groupe de travail *Participation et citoyenneté numériques* du [Centre Internet et Société](https://cis.cnrs.fr) du CNRS. 
+De septembre 2022 à 2025, j'ai été post-doctorant au [CERES](https://ceres.sorbonne-universite.fr), le Centre d’expérimentation en méthodes numériques pour les recherches en SHS de la Faculté des Lettres de Sorbonne Université. J'y ai travaillé à la conception de protocoles méthodologiques agençant collecte de données, mise en capacité d'exploration, analyse de résultats et production de visualisations. Dans ce cadre, l'outil Panoptic dédié à l'exploration et l'annotation de larges corpus plurisémiotiques, a été développé avec des collègues chercheur·euses, informaticiens et designeur·euses [(ressource 1)](https://panopticorg.github.io) ; [(ressource 2)](https://hal.science/hal-04687627/).
+
+Depuis septembre 2025, je suis post-doctorant au [CEThicS](https://lillethics.com/cethics/), le Centre d'études sur les technologies de surveillance, à l'Université Catholique de Lille au sein de l'Institut des stratégies et techniques de communication (ISTC).
+
+Je suis également co-responsable du groupe de travail *Participation et citoyenneté numériques* du [Centre Internet et Société](https://cis.cnrs.fr) du CNRS. 
 
 Axes de recherche
 ======
-* Processus de politisation en ligne.
-* Circulation des images partagées sur les réseaux sociaux numériques lors de controverses.
-* Circulation des images de violence sur les réseaux sociaux numériques.
-* Rôle des images partagées en ligne dans la dénonciation des violences policières.
+* Interactions, processus de politisation et militantisme en ligne.
+* Circulation des images sur les réseaux sociaux numériques.
+* Surveillance, répression et violences policières
 * Dynamiques de transformation de l’espace public numérique.
 * Développement de méthodes numériques pour les sciences humaines et sociales.
 
 
-\[en cours\]
 
 <!---
 rapports sociaux de race et de classe.
