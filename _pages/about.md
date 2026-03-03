@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Je suis docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne. Ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (INSA Rennes/LFPC). Un livre, [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/), tiré de ce travail de thèse, a été publié aux éditions MKF avec le soutien du CNL.
+Je suis docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne depuis novembre 2022. ~~Ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (INSA Rennes/LFPC).~~ Un livre, [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/), tiré de mon travail de thèse, a été publié aux éditions MKF avec le soutien du CNL. Il a été finaliste du [prix Recherche des Assises du Journalisme 2026](https://journalisme.com/assises-de-tours/qui-sont-les-nomme%c2%b7es-des-prix-des-assises-2026/).
 
 De septembre 2022 à 2025, j'ai été post-doctorant au [CERES](https://ceres.sorbonne-universite.fr), le Centre d’expérimentation en méthodes numériques pour les recherches en SHS de la Faculté des Lettres de Sorbonne Université. J'y ai travaillé à la conception de protocoles méthodologiques agençant collecte de données, mise en capacité d'exploration, analyse de résultats et production de visualisations. Dans ce cadre, l'outil Panoptic dédié à l'exploration et l'annotation de larges corpus plurisémiotiques, a été développé avec des collègues chercheur·euses, informaticiens et designeur·euses [(ressource 1)](https://panopticorg.github.io) ; [(ressource 2)](https://hal.science/hal-04687627/).
 
@@ -18,8 +18,8 @@ Je suis également co-responsable du groupe de travail *Participation et citoyen
 Axes de recherche
 ======
 * Interactions, processus de politisation et militantisme en ligne.
-* Circulation des images sur les réseaux sociaux numériques.
-* Surveillance, répression et violences policières
+* Circulation des images "violentes" sur les réseaux sociaux numériques.
+* Répression et violences policières vues par les réseaux sociaux numériques.
 * Dynamiques de transformation de l’espace public numérique.
 * Développement de méthodes numériques pour les sciences humaines et sociales.
 
