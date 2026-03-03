@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Je suis docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne depuis novembre 2022. ~~Ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (INSA Rennes/LFPC).~~ Un livre, [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/), tiré de mon travail de thèse, a été publié aux éditions MKF avec le soutien du CNL. Il a été finaliste du [prix Recherche des Assises du Journalisme 2026](https://journalisme.com/assises-de-tours/qui-sont-les-nomme%c2%b7es-des-prix-des-assises-2026/).
+Je suis docteur en sciences de l’information et de la communication du laboratoire Costech de l’Université de technologie de Compiègne depuis novembre 2022. Un livre, [_Images et discours de la répression : Gilets jaunes et policiers sur les réseaux sociaux_](https://www.editionsmkf.com/produit/images-discours-repression/), tiré de mon travail de thèse, a été publié aux éditions MKF avec le soutien du CNL. Il a été finaliste du [prix Recherche des Assises du Journalisme 2026](https://journalisme.com/assises-de-tours/qui-sont-les-nomme%c2%b7es-des-prix-des-assises-2026/).
 
 De septembre 2022 à 2025, j'ai été post-doctorant au [CERES](https://ceres.sorbonne-universite.fr), le Centre d’expérimentation en méthodes numériques pour les recherches en SHS de la Faculté des Lettres de Sorbonne Université. J'y ai travaillé à la conception de protocoles méthodologiques agençant collecte de données, mise en capacité d'exploration, analyse de résultats et production de visualisations. Dans ce cadre, l'outil Panoptic dédié à l'exploration et l'annotation de larges corpus plurisémiotiques, a été développé avec des collègues chercheur·euses, informaticiens et designeur·euses [(ressource 1)](https://panopticorg.github.io) ; [(ressource 2)](https://hal.science/hal-04687627/).
 
@@ -26,6 +26,9 @@ Axes de recherche
 
 
 <!---
+
+Ma thèse a été dirigée par Virginie Julliard (Celsa/Gripic) et Clément Mabi (INSA Rennes/LFPC).
+
 rapports sociaux de race et de classe.
 
 
