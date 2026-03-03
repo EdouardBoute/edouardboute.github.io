@@ -5,7 +5,7 @@ permalink: /medias/
 author_profile: true
 ---
 
-* (Presse) **Imagine*, entretien pour le numéro du premier trimestre 2026, « Coup de jeunes », article « "Et ça fait clic" : l’autre grammaire de l’engagement militant ». <a target="_blank" href="https://kiosque.imagine-magazine.com/digital/et-ca-fait-clic-lautre-grammaire-de-lengagement-militant/"> ➡ </a> <br>
+* (Presse) **Imagine**, entretien pour le numéro du premier trimestre 2026, « Coup de jeunes », article « "Et ça fait clic" : l’autre grammaire de l’engagement militant ». <a target="_blank" href="https://kiosque.imagine-magazine.com/digital/et-ca-fait-clic-lautre-grammaire-de-lengagement-militant/"> ➡ </a> <br>
 * (Podcast) **BFMTV**, entretien pour le podcast « Pourquoi TikTok a été interdit en Nouvelle-Calédonie ? », 1er juin 2024.  <a target="_blank" href="https://www.bfmtv.com/podcasts/le-titre-a-la-une-junior/pourquoi-tik-tok-a-ete-interdit-en-nouvelle-caledonie_EN-202406010094.html"> ➡ </a> <br>
 * (Podcast) **Révolutions Numériques**, entretien pour le podcast  des étudiant·es du master Métiers de l’information de  Sciences Po Aix, par Julia Dall’Ara et Salomé Nefti « Au cœur des arènes numériques : la polarisation sur les réseaux sociaux », 22 janvier 2024. <a target="_blank" href="https://podcast.ausha.co/revolutions-numeriques/01-au-coeur-des-arenes-numeriques-la-polarisation-sur-les-reseaux-sociaux-s4-revolutions-numeriques"> ➡ </a> <br>
 * (Presse) **Stratégies**, entretien pour l’article de Amaury de Rochegonde « La téléréalité des révoltes urbaines », 6 juillet 2023. <a target="_blank" href="https://www.strategies.fr/actualites/medias/LQ2122132C/la-telerealite-des-revoltes-urbaines.html"> ➡ </a> <br>
