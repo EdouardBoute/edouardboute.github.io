@@ -26,6 +26,7 @@ author_profile: true
 ### Articles de revues scientifiques
 
 2026\. [« Tiktok, un nouvel espace de discussion politique structuré par les médias d’informations ? »](https://shs.cairn.info/revue-reseaux-2026-1-page-191?lang=fr), _Réseaux_, n° 255-256(1-2), pp. 191-236.
+
 2024\. [« "Combien n’ont pas été filmé·es ?" Violences policières : iconographie d’une dénonciation et dénonciations d’une hégémonie des pratiques visuelles »](https://journals.openedition.org/terminal/9954), *Terminal*, n° 138.  
 2023\. Avec I. Galligo I. et L. Duhelm, <a target="_blank" href="https://doi.org/10.34746/cahierscostech172">« Automédias : Pour une fabrique populaire de l’information à l’époque de la post-vérité »</a>, *Cahiers Costech*, n° 6.  
 2021\. <a target="_blank" href="https://doi.org/10.4000/questionsdecommunication.25524">« La mise en visibilité des forces de l’ordre sur Twitter pendant le mouvement des Gilets jaunes »</a>, *Questions de communication*, n°39, vol. 1, pp. 185-208.  
