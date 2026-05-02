@@ -17,11 +17,11 @@ Je suis également co-responsable du groupe de travail *Participation et citoyen
 
 Axes de recherche
 ======
-* Interactions, processus de politisation et militantisme en ligne.
-* Circulation des images "violentes" sur les réseaux sociaux numériques.
-* Répression et violences policières vues par les réseaux sociaux numériques.
 * Dynamiques de transformation de l’espace public numérique.
+* Circulation des images "violentes" sur les réseaux sociaux numériques.
 * Développement de méthodes numériques pour les sciences humaines et sociales.
+* Répression et violences policières vues par les réseaux sociaux numériques.
+* Interactions, processus de politisation et militantisme en ligne.
 
 
 
